@@ -18,9 +18,9 @@
   },
   "homepage": "https://zardo.dev",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3222",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 3222",
     "lint": "next lint"
   },
   "dependencies": {

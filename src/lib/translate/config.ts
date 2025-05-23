@@ -48,7 +48,7 @@ i18n
       },
     },
     lng: 'pt',
-    fallbackLng: 'pt',
+    fallbackLng: 'en',
     ns: ['home'],
     defaultNS: 'home',
     interpolation: {

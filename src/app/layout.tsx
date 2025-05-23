@@ -88,8 +88,9 @@ export default function RootLayout({
   children: React.ReactNode;
   params: { locale: string };
 }) {
+  const lang = params?.locale || "en"
   return (
-    <html lang={params.locale}>
+    <html lang={lang}>
       <head>
       </head>
       <body className={`${poppins.className} antialiased`}>

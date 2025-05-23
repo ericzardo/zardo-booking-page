@@ -43,7 +43,7 @@ export default function Page() {
     .map((item) => ({ ...item, icon: iconMap[item.platform] }));
 
   return (
-    <main className="min-h-screen bg-brand-offwhite">
+    <div className="overflow-hidden bg-brand-offwhite relative">
       {!isClient && (<LoadingScreen />)}
       <LanguageSwitcher />
       <Slogan
@@ -60,9 +60,7 @@ export default function Page() {
       <Slogan
         title={t('slogan.title')}
         description={t('slogan.description')}
-        borderRadius="top"
-        transitionDirection="down"
-      /> 
+      />
       <Footer
         email="contact@zardo.dev"
         socialLinks={SOCIAL_LINKS}
@@ -71,6 +69,6 @@ export default function Page() {
         }
         backToTopLabel={t('footer.backToTop')}
       />
-    </main>
+    </div>
   );
 }
