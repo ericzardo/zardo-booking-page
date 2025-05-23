@@ -88,11 +88,8 @@ export default function RootLayout({
   children: React.ReactNode;
   params: { locale: string };
 }) {
-  const lang = params?.locale || "en"
   return (
-    <html lang={lang}>
-      <head>
-      </head>
+    <html lang={params.locale}>
       <body className={`${poppins.className} antialiased`}>
         <SmoothScroll>
           {children}
