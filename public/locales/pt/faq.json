@@ -1,0 +1,21 @@
+{
+  "title": "Perguntas Frequentes",
+  "items": [
+    {
+      "question": "Essa consultoria é realmente gratuita?",
+      "answer": "Sim! É uma sessão 100% gratuita e sem compromisso. Um momento genuíno para te ajudar com seu projeto ou ideia."
+    },
+    {
+      "question": "Quanto tempo dura a consultoria?",
+      "answer": "Cerca de 30 minutos — tempo suficiente para entender seu contexto e te dar uma direção personalizada."
+    },
+    {
+      "question": "Preciso preparar algo antes?",
+      "answer": "Não é obrigatório. Mas se tiver anotações, dúvidas ou um pitch, pode trazer!"
+    },
+    {
+      "question": "O que acontece depois da consultoria?",
+      "answer": "Você sai com próximos passos claros. Se quiser seguir com suporte extra, conversamos. Mas sem pressão."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "nav": [
+    {
+      "label": "Home",
+      "href": "hero"
+    },
+    {
+      "label": "Projects",
+      "href": "projects"
+    },
+    {
+      "label": "About",
+      "href": "about"
+    },
+    {
+      "label": "Contact",
+      "href": "contact"
+    }
+  ],
+  "cta": "Get Started",
+  "header": {
+    "title": "Book your Free Consultation",
+    "description": "Let's talk about how your company can stand out with customized digital solutions. Choose the best time for you!"
+  },
+  "slogan": {
+    "title": "Innovative Digital Solutions",
+    "description": "Combining creativity and cutting-edge technology to craft unique experiences that transform your business."
+  },
+  "social": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/zardo.dev",
+      "label": "Zardo's Instagram Profile"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/zardo-dev",
+      "label": "Zardo's LinkedIn Profile"
+    }
+  ],
+  "footer": {
+    "backToTop": "Back to top"
+  }
+}

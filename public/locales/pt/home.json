@@ -1,0 +1,44 @@
+{
+  "nav": [
+    {
+      "label": "Início",
+      "href": "hero"
+    },
+    {
+      "label": "Projetos",
+      "href": "projects"
+    },
+    {
+      "label": "Sobre",
+      "href": "about"
+    },
+    {
+      "label": "Contato",
+      "href": "contact"
+    }
+  ],
+  "cta": "Começar agora",
+  "header": {
+    "title": "Marque sua Consultoria Gratuita",
+    "description": "Vamos conversar sobre como sua empresa pode se destacar com soluções digitais personalizadas. Escolha o melhor horário para você!"
+  },
+  "slogan": {
+    "title": "Soluções Digitais Inovadoras",
+    "description": "Combinamos criatividade e tecnologia de ponta para criar experiências únicas que transformam o seu negócio."
+  },
+  "social": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/zardo.dev",
+      "label": "Perfil da Zardo no Instagram"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/zardo-dev",
+      "label": "Perfil da Zardo no LinkedIn"
+    }
+  ],
+  "footer": {
+    "backToTop": "Voltar ao topo"
+  }
+}

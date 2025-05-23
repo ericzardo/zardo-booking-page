@@ -1,0 +1,6 @@
+{
+  "title": "Your meeting is confirmed!",
+  "description": "Hi {{name}}, your \"{{event}}\" consultation is now scheduled.",
+  "dateLabel": "Date:",
+  "note": "You’ll receive an email with all the meeting details shortly."
+}

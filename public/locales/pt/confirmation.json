@@ -1,0 +1,6 @@
+{
+  "title": "Consulta agendada com sucesso!",
+  "description": "Olá {{name}}, sua consulta \"{{event}}\" está confirmada.",
+  "dateLabel": "Data:",
+  "note": "Você receberá um e-mail com os detalhes da reunião em breve."
+}
