@@ -46,4 +46,4 @@ This project is part of Zardo's digital platform and was built to simplify the s
 
 ## License
 
-This project is licensed under the terms of the MIT License.
+This project is licensed under the terms of the [MIT License](https://github.com/ericzardo/zardo-booking-page/blob/main/LICENSE).
