@@ -1,6 +1,7 @@
 import "@/lib/translate/config"
 
 import type { Metadata, Viewport } from "next";
+import { use } from "react"
 import { Poppins } from "next/font/google";
 
 import { Toaster } from 'react-hot-toast';
@@ -86,10 +87,11 @@ export default function RootLayout({
   params,
 }: {
   children: React.ReactNode;
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
+  const { locale } = use(params);
   return (
-    <html lang={params.locale}>
+    <html lang={locale}>
       <body className={`${poppins.className} antialiased`}>
         <SmoothScroll>
           {children}
